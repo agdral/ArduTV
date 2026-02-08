@@ -1,0 +1,13 @@
+#ifndef REMOTE_H
+#define REMOTE_H
+
+#define DELAY_AFTER_SEND 2000
+#define DELAY_AFTER_LOOP 5000
+#define DISABLE_CODE_FOR_RECEIVER
+#define IR_RECEIVE_PIN 2
+// #define IR_SEND_PIN 3
+#define TONE_PIN 4
+#define APPLICATION_PIN 5
+#define ALTERNATIVE_IR_FEEDBACK_LED_PIN 6
+
+#endif

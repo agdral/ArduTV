@@ -9,3 +9,4 @@
 
 # CI/CD
 .direnv/
+compile_commands.json
